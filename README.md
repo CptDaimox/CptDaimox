@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Toan</a></b>.
-    <br>I'm a master’s student in business computing from Berlin.<br>
+    Hello there! I'm <b>Toan</b>.
+    <br>I'm an IT Consultant @ Netlight in Berlin<br>
 
 </samp>
 
